@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://www.instagram.com/cyberknopa/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/4923/premium/4923005.png?token=exp=1636384699~hmac=6ed5c1bbed2fa8e6db5537a5f0d4b501" alt="" height="30" width="30" /></a>
 <a href="https://vk.com/cyberknopa" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145813.png" alt="" height="30" width="30" /></a>
-<a href="t.me/cyberknopa" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504941.png?token=exp=1636384720~hmac=802f17360c63bdae5a01e7556de3f860" alt="" height="30" width="30" /></a>
+<a href="https://t.me/cyberknopa" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504941.png?token=exp=1636384720~hmac=802f17360c63bdae5a01e7556de3f860" alt="" height="30" width="30" /></a>
 </p>
 
 
