@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/cyberknopa/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/4923/premium/4923005.png?token=exp=1636384699~hmac=6ed5c1bbed2fa8e6db5537a5f0d4b501" alt="" height="30" width="30" /></a>
+<a href="https://www.instagram.com/cyberknopa/" target="blank"><img align="center" src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" alt="" height="30" width="30" /></a>
 <a href="https://vk.com/cyberknopa" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145813.png" alt="" height="30" width="30" /></a>
 <a href="https://t.me/cyberknopa" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504941.png?token=exp=1636384720~hmac=802f17360c63bdae5a01e7556de3f860" alt="" height="30" width="30" /></a>
 </p>
