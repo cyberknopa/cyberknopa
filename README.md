@@ -10,7 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/cyberknopa/" target="blank"><img align="center" src="https://img.icons8.com/stickers/344/instagram-check-mark.png" alt="" height="30" width="30" /></a>
-  
 <a href="https://vk.com/cyberknopa" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/vk-com.png" alt="" height="30" width="30" /></a>
 <a href="https://t.me/cyberknopa" target="blank"><img align="center" src="https://img.icons8.com/stickers/344/telegram-app.png" alt="" height="30" width="30" /></a>
 </p>
