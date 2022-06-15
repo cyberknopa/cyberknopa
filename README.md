@@ -1,6 +1,6 @@
 ### Hello there 👋
 - Student of the Faculty of Information Security at ITMO University
-- All repositories belonging to the university are marked with the year (220-2022)
+- All repositories belonging to the university are marked with the year (2020 - 2022)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberknopa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
